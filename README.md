@@ -1,10 +1,10 @@
 # New-Titles-Headlines-Analysis
 
-Problem Statement:
+# Problem Statement:
 Given data of News Title and Headline along with some other features, predict the sentiment of News Title and Headline.
 
 
-Steps: 
+# Steps: 
 
 #IMPORT ALL THE NECESSARY LIBRARIES
 
@@ -51,9 +51,9 @@ Steps:
 #GETTING THE ID FOR THE NEWS, THE TITLE SENTIMENT PREDICTED , THE HEADLINE SENTIMENT PREDICTED
 
 
-Evaluation criteria:
+# Evaluation criteria:
 Mean Average Error (MAE)
 
-Points (0-100) (Combined = 0.4 * title_sentiment + 0.6 * headline_sentiment)
+# Points (0-100) (Combined = 0.4 * title_sentiment + 0.6 * headline_sentiment)
 
-Overall: 90.96
+# Overall: 90.96
